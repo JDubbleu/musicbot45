@@ -6,3 +6,4 @@ discord.py==0.14.3
 aiohttp
 websockets
 chardet
+python3 -m pip install -U discord.py[voice]
